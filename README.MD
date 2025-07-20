@@ -173,14 +173,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-## Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-## Acknowledgments
-
-- Flask documentation
-- Temple management for seva list reference
-seva-readme.md
-Displaying seva-readme.md.
