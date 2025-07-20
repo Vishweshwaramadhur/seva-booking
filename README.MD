@@ -1,21 +1,4 @@
-Conversation opened. 1 unread message.
 
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 1,931
-README
-Inbox
-
-Kiran Upadhya
-Attachments
-6:59 PM (7 minutes ago)
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 # Temple Seva Management System
 
 A web application built with Flask for managing temple sevas (religious services). This system allows temple administrators to manage seva offerings and generate bills for devotees.
